@@ -1,0 +1,25 @@
+.redtext{
+    color: red;
+    text-align: center;
+    /* background: url('./icon.jpeg') */
+}
+.imageeeee{
+    width: 20%;
+    height: 20%;
+    margin-left:40%
+}
+#my_note{
+    border : 1px solid black;
+    width :80%;
+    height :400px;
+    margin : auto;
+}
+.inputbox{
+    height :50px;
+    width :60%;
+    margin :10px
+}
+.submitbtn{
+    padding :10px 20px;
+    background :teal;
+}
