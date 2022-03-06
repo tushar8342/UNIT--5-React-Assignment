@@ -1,0 +1,15 @@
+.App{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+
+#btn{
+  display: flex;
+  justify-content: space-around;
+}
+#btn>button{
+  padding: 10px 20px;
+  background-color: teal;
+  
+}
