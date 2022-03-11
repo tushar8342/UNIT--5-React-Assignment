@@ -21,7 +21,7 @@ export const GroceryInput = ()=>{
         axios.post("http://localhost:3001/groceries",{name:grocery}).then(()=>getData())
     }
     return(
-        <>
+        <div>
         <div>
             <input type="text" placeholder="Type here to note" onChange={(event)=>{
                 setGrocery(event.target.value)
@@ -34,6 +34,6 @@ export const GroceryInput = ()=>{
             
             <button onClick={()=>{setPage(page+1)}}>Next</button>
         </div>
-        </>
+        </div>
     )
 }
