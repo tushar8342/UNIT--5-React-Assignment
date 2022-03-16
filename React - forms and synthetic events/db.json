@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "username": "czx",
+      "age": "4343",
+      "address": "fdg",
+      "department": "Tech",
+      "salary": "43534543",
+      "marital": "married",
+      "id": 1
+    },
+    {
+      "username": "hfgh",
+      "age": "5443",
+      "address": "hg",
+      "department": "Management",
+      "salary": "435435",
+      "marital": "",
+      "id": 2
+    },
+    {
+      "username": "sadsad",
+      "age": "3123",
+      "address": "sad",
+      "department": "",
+      "salary": "23123123123",
+      "marital": "",
+      "id": 3
+    },
+    {
+      "username": "qwdeqw",
+      "age": "423",
+      "address": "fdsfdsfdsfdsf",
+      "department": "Sales",
+      "salary": "2534343543",
+      "marital": "",
+      "id": 4
+    },
+    {
+      "username": "sdfdsf",
+      "age": "323",
+      "address": "cx",
+      "department": "Tech",
+      "salary": "33",
+      "marital": "married",
+      "id": 5
+    },
+    {
+      "username": "dffd",
+      "age": "21",
+      "address": "dsad",
+      "department": "Management",
+      "salary": "122",
+      "marital": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": "married",
+      "id": 7
+    },
+    {
+      "username": "786",
+      "address": "hjg",
+      "salary": "6",
+      "department": "Tech",
+      "marital": "married",
+      "age": "435",
+      "id": 8
+    },
+    {
+      "username": "fgjhhgj",
+      "age": "546",
+      "address": "fghhgf",
+      "department": "Management",
+      "salary": "54",
+      "id": 9
+    },
+    {
+      "username": "hgfh",
+      "age": "54",
+      "address": "hgfdh",
+      "department": "Sales",
+      "salary": "5454",
+      "marital": "married",
+      "id": 10
+    },
+    {
+      "department": "Management",
+      "marital": "married",
+      "salary": "567657",
+      "username": "567",
+      "age": "546",
+      "address": "fhggh",
+      "id": 11
+    }
+  ]
+}
